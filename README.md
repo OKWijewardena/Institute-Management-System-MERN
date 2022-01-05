@@ -1,8 +1,8 @@
 # Institute-Management-System-MERN-
 
-Frontend - React.js
-Backend - node.js
-Database - Mongodb
+* Frontend - React.js
+* Backend - node.js
+* Database - Mongodb
 
 Click the below link to see my MERN Stack project :
 
